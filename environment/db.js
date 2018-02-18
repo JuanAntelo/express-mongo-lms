@@ -1,0 +1,1 @@
+module.exports = "mongodb://adminuser:secretpassword@ds239968.mlab.com:39968/college-lms";

@@ -1,0 +1,18 @@
+{
+  "name": "school-lms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-resource": "^1.0.0",
+    "mongoose": "^5.0.6",
+    "mongoose-models": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
