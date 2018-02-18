@@ -27,25 +27,25 @@ exports.index = function(req, res){
 };
 
 exports.new = function(req, res){
-  res.send('new forum');
+  res.send('not yet implemented');
 };
 
 exports.create = function(req, res){
-  res.send('create forum');
+  res.send('not yet implemented');
 };
 
 exports.show = function(req, res){
-  res.send('show forum ' + req.params.forum);
+  res.send('not yet implemented');
 };
 
 exports.edit = function(req, res){
-  res.send('edit forum ' + req.params.forum);
+  res.send('not yet implemented');
 };
 
 exports.update = function(req, res){
-  res.send('update forum ' + req.params.forum);
+  res.send('not yet implemented');
 };
 
 exports.destroy = function(req, res){
-  res.send('destroy forum ' + req.params.forum);
+  res.send('not yet implemented');
 };

@@ -17,4 +17,4 @@ app.get('/', (req, res) => {
   res.send("<div><h3>Resources : </h3><ul><li>/accounts</li><li>/classes</li><li>/organizations</li><li>/professors</li><li>/students</li></ul></div>")
 })
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.listen(3000, () => console.log('Sample LMS listening on port 3000!'))
